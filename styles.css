@@ -355,7 +355,7 @@
     width: 400px;
     border-radius: 20px;
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%),
-        url('/images/ape1.jpg');
+        url('ape1.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -368,7 +368,7 @@
     width: 400px;
     border-radius: 20px;
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%),
-        url('/images/ape3.jpg');
+        url('ape3.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -381,7 +381,7 @@
     width: 400px;
     border-radius: 20px;
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%),
-        url('/images/ape4.jpg');
+        url('ape4.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -394,7 +394,7 @@
     width: 400px;
     border-radius: 20px;
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%),
-        url('/images/ape5.jpg');
+        url('ape5.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
